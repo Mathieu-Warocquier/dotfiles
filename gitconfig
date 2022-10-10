@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api mathieu.warocquier@gmail.com
+	email = mathieu.warocquier@gmail.com
 	name = Mathieu Warocquier
